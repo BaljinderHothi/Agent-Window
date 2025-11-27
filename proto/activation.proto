@@ -1,1 +1,3 @@
-// Agent Window - Protocol Buffer Schema
+// File: proto/activation.proto
+// Purpose: Protocol Buffer schema for layer activation data
+// Defines efficient binary format for activation tensors
