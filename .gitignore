@@ -1,0 +1,36 @@
+# Build directories
+build/
+cmake-build-*/
+dist/
+*.egg-info/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+
+# C++
+*.o
+*.so
+*.a
+*.dylib
+*.dll
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dashboard
+dashboard/node_modules/
+dashboard/dist/
+
+# Data
+*.hdf5
+*.pb
+logs/
+checkpoints/
